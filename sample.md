@@ -1173,7 +1173,7 @@ complete = 0
 
 17. [![티코블러](http://www.nulsom.com/design/default/images/p02-17-img-01.jpg =100x)]() T-Cobbler GPIO 확장보드 + 40핀 플랫케이블 - 라즈베리파이로 모터/센서 제어
 
-18. [![고무](https://user-images.githubusercontent.com/41332126/70539949-bc3faf00-1ba7-11ea-99e4-64b091022261.png){: width="100" height="100"}](https://search.shopping.naver.com/search/all.nhn?query=%EB%AF%B8%ED%82%A4%EB%A7%88%EC%9A%B0%EC%8A%A4+%EB%85%BC%EC%8A%AC%EB%A6%BD%ED%8C%A8%EB%93%9C+%EC%8A%AC%EB%A6%BC%ED%98%95&cat_id=&frm=NVSHATC) 미키마우스 논슬립패드(슬림형) - 컵에 닿는 그리퍼 부분에 부착하여 미끄럼 방지
+18. [![고무](https://user-images.githubusercontent.com/41332126/70539949-bc3faf00-1ba7-11ea-99e4-64b091022261.png){: style="max-width:none; height:400px"}](https://search.shopping.naver.com/search/all.nhn?query=%EB%AF%B8%ED%82%A4%EB%A7%88%EC%9A%B0%EC%8A%A4+%EB%85%BC%EC%8A%AC%EB%A6%BD%ED%8C%A8%EB%93%9C+%EC%8A%AC%EB%A6%BC%ED%98%95&cat_id=&frm=NVSHATC) 미키마우스 논슬립패드(슬림형) - 컵에 닿는 그리퍼 부분에 부착하여 미끄럼 방지
 
 <!--
 [![폼보드](http://www.devicemart.co.kr/data/collect_img/kind_0/goods/large/200707141834210.jpg =100x)](http://www.devicemart.co.kr/goods/view?no=10114) 3T 포맥스(검정색) 450x450(mm) - 외관 제작[![접착제](http://www.devicemart.co.kr/data/collect_img/kind_0/goods/large/201007121425170.jpg =100x)](http://www.devicemart.co.kr/goods/view?no=24965) 우드락 접착제 UHU-Por 50ml
